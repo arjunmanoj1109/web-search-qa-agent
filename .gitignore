@@ -1,0 +1,14 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment variables & secrets (NEVER commit this)
+.env
+
+# Python byte-code & cache
+__pycache__/
+*.pyc
+
+# IDE configuration
+.vscode/
